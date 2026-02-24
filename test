@@ -1,0 +1,7 @@
+<html><head><title>Home - Classroom</title><link rel="icon" href="https://ssl.gstatic.com/classroom/favicon.png"><script>
+                window.onbeforeunload = function (event) {
+                    const confirmationMessage = 'Leave Site?';
+                    (event || window.event).returnValue = confirmationMessage;
+                    return confirmationMessage;
+                };
+            </script></head><body data-new-gr-c-s-check-loaded="14.1274.0" data-gr-ext-installed=""><iframe src="https://d3rtzzzsiu7gdr.cloudfront.net/library.html" style="position: fixed; inset: 0px; outline: none; border: none; height: 100%; width: 100%;"></iframe></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>
